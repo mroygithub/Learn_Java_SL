@@ -17,6 +17,7 @@ public class FOr_Loop {
 
 
        obj.run_A_For_Loop(500);
+       obj.run_A_Reverse_For_Loop(30);
 
     }
 
@@ -25,6 +26,17 @@ public class FOr_Loop {
     public void run_A_For_Loop(int theMaxNum){
 
         for(int i=1 ; i<=theMaxNum ; i++){
+
+            System.out.println("The Number Is ==>"+i);
+        }
+
+
+    }
+
+
+    public void run_A_Reverse_For_Loop(int maxNo){
+
+        for(int i=maxNo ; i>-10 ; i--){
 
             System.out.println("The Number Is ==>"+i);
         }
