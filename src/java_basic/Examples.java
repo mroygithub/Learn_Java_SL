@@ -1,6 +1,6 @@
-package Floor_1;
+package java_basic;
 
-public class Flat_B1 {
+public class Examples {
 
 
 
