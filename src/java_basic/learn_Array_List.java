@@ -18,7 +18,7 @@ public class learn_Array_List {
 
         ArrayList<String> obj = new ArrayList<String>();
 
-       // ArrayList<Integer> obj1 = new ArrayList<Integer>();
+        ArrayList<Integer> obj1 = new ArrayList<Integer>();
 
 
         obj.add("Project Management Certification Course");
@@ -51,6 +51,33 @@ public class learn_Array_List {
         obj.remove(3);
 
         System.out.println(obj);
+
+
+
+        // Iterating ArrayList ...
+
+        for (String str:obj){
+            System.out.println(str);
+            if(str.equalsIgnoreCase("Business Analysis Certification Course1")){
+                break;
+            }
+        }
+
+
+
+
+
+
+        obj1.add(123);
+        obj1.add(222);
+        obj1.add(333);
+        obj1.add(555);
+        obj1.add(777);
+        obj1.add(444);
+
+        obj1.add(4 , 999);
+        System.out.println(obj1);
+
 
 
 
