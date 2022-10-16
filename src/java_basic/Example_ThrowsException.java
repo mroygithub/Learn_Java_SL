@@ -7,8 +7,6 @@ import java.io.IOException;
 public class Example_ThrowsException {
 
 
-
-
     public static void main(String args[]){
 
         try{

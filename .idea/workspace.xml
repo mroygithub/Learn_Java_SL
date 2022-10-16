@@ -7,10 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="442303ce-4f7e-4b87-a8a9-7a2c13e777df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ABCD.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_basic/Example_ThrowsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_basic/LearnExceptionHandling_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_basic/Learn_Custom_Throw_Exception.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jUnitForJmeter/java_basic/Example_ThrowsException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jUnitForJmeter/java_basic/Example_ThrowsException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_basic/Example_ThrowsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_basic/Example_ThrowsException.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,23 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_basic/LearnExceptionHandling_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java_basic/Example_ThrowsException.java">
+        <entry file="file://$PROJECT_DIR$/src/java_basic/Learn_Custom_Throw_Exception.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="127" selection-start-line="23" selection-start-column="127" selection-end-line="23" selection-end-column="127" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -83,6 +71,7 @@
         <option value="$PROJECT_DIR$/src/java_basic/learn_Hasmap.java" />
         <option value="$PROJECT_DIR$/src/java_basic/LearnExceptionHandling_1.java" />
         <option value="$PROJECT_DIR$/src/java_basic/Example_ThrowsException.java" />
+        <option value="$PROJECT_DIR$/src/java_basic/Learn_Custom_Throw_Exception.java" />
       </list>
     </option>
   </component>
@@ -109,6 +98,12 @@
               <item name="junitformaven" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="junitformaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junitformaven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java_basic" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -122,7 +117,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1665939426979" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1665940472826" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -146,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Example_ThrowsException">
+  <component name="RunManager" selected="Application.Learn_Custom_Throw_Exception">
     <configuration name="Example_ThrowsException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_basic.Example_ThrowsException" />
       <module name="jUnitForJmeter" />
@@ -173,8 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="learn_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_basic.learn_Array" />
+    <configuration name="Learn_Custom_Throw_Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_basic.Learn_Custom_Throw_Exception" />
       <module name="jUnitForJmeter" />
       <extension name="coverage">
         <pattern>
@@ -214,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Learn_Custom_Throw_Exception" />
         <item itemvalue="Application.Example_ThrowsException" />
         <item itemvalue="Application.LearnExceptionHandling_1" />
         <item itemvalue="Application.learn_Hasmap" />
         <item itemvalue="Application.learn_Array_List" />
-        <item itemvalue="Application.learn_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -259,12 +254,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3310153" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3310153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2686747" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28511822" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.28511822" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32962447" />
@@ -451,6 +446,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ABCD.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_basic/Example_ThrowsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_basic/LearnExceptionHandling_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -458,16 +466,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ABCD.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_basic/Example_ThrowsException.java">
+    <entry file="file://$PROJECT_DIR$/src/java_basic/Learn_Custom_Throw_Exception.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="127" selection-start-line="23" selection-start-column="127" selection-end-line="23" selection-end-column="127" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
         </state>
       </provider>
     </entry>
