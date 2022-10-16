@@ -7,15 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="442303ce-4f7e-4b87-a8a9-7a2c13e777df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Floor_1/Flat_C1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Floor_1/This_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_basic/Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_basic/learn_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_basic/learn_Array_List.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jUnitForJmeter/Floor_1/Flat_A1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jUnitForJmeter/Floor_1/Flat_A1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jUnitForJmeter/Floor_1/Flat_B1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jUnitForJmeter/Floor_1/Flat_B1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Floor_1/Flat_A1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Floor_1/Flat_A1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Floor_1/Flat_B1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Floor_1/Flat_B1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jUnitForJmeter/java_basic/learn_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jUnitForJmeter/java_basic/learn_Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_basic/learn_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_basic/learn_Array.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +21,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_basic/learn_Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+            <state relative-caret-position="120">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java_basic/learn_Array_List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#284#292#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,6 +79,7 @@
         <option value="$PROJECT_DIR$/src/java_basic/Examples.java" />
         <option value="$PROJECT_DIR$/src/Floor_1/This_Example.java" />
         <option value="$PROJECT_DIR$/src/java_basic/learn_Array.java" />
+        <option value="$PROJECT_DIR$/src/java_basic/learn_Array_List.java" />
       </list>
     </option>
   </component>
@@ -123,7 +131,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1665931117129" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1665933320897" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -147,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.learn_Array">
+  <component name="RunManager" selected="Application.learn_Array_List">
     <configuration name="Flat_A1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Floor_1.Flat_A1" />
       <module name="jUnitForJmeter" />
@@ -200,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="method_overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SL_Learning.method_overloading" />
+    <configuration name="learn_Array_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_basic.learn_Array_List" />
       <module name="jUnitForJmeter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SL_Learning.*" />
+          <option name="PATTERN" value="java_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.learn_Array_List" />
         <item itemvalue="Application.learn_Array" />
         <item itemvalue="Application.Flat_C1" />
         <item itemvalue="Application.Learn_Encapsulation" />
         <item itemvalue="Application.Flat_A1" />
-        <item itemvalue="Application.method_overloading" />
       </list>
     </recent_temporary>
   </component>
@@ -288,12 +296,6 @@
           <line>13</line>
           <properties />
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java_basic/learn_Array.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -432,8 +434,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_basic/learn_Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_basic/learn_Array_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#284#292#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
